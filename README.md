@@ -1,7 +1,3 @@
-![WhatsApp Image 2023-04-10 at 10 48 11 PM (1)](https://user-images.githubusercontent.com/126875304/230955536-cd878923-a9cd-47a4-bb4e-8f645a4c6a44.jpeg)
-![WhatsApp Image 2023-04-10 at 10 48 11 PM](https://user-images.githubusercontent.com/126875304/230955539-e75fe7aa-c396-48be-84ce-cadbf4b4c709.jpeg)
-![WhatsApp Image 2023-04-10 at 10 48 10 PM (1)](https://user-images.githubusercontent.com/126875304/230955544-fcadfc0d-9244-4911-a6a9-99a9ca0b7787.jpeg)
-![WhatsApp Image 2023-04-10 at 10 48 10 PM](https://user-images.githubusercontent.com/126875304/230955548-c7af9702-b5d1-4f3e-b9f7-7391e4d6a92c.jpeg)
 
 # html5-headers![Html sherlock](https://user-images.githubusercontent.com/126875304/230638232-969388d6-ac11-4ce2-9321-fcd7d3e3de3b.png)
 # Notes
@@ -26,3 +22,8 @@
 ![WhatsApp Image 2023-04-08 at 11 31 41 PM (1)](https://user-images.githubusercontent.com/126875304/230737057-226c635b-4ef4-4338-a203-7f91bc7191e0.jpeg)
 # space after logo & content in right
 ![WhatsApp Image 2023-04-08 at 11 31 41 PM (2)](https://user-images.githubusercontent.com/126875304/230737115-8a4f6a2a-b772-4c3f-814b-840303361960.jpeg)
+# Form & contact me
+![WhatsApp Image 2023-04-10 at 10 48 11 PM](https://user-images.githubusercontent.com/126875304/230956034-9b98de5d-930e-4922-85ad-ed965c8f7ba6.jpeg)
+![WhatsApp Image 2023-04-10 at 10 48 10 PM (1)](https://user-images.githubusercontent.com/126875304/230956100-e7f9cd30-e6c3-45ab-8e7f-b852328e603e.jpeg)
+![WhatsApp Image 2023-04-10 at 10 48 10 PM](https://user-images.githubusercontent.com/126875304/230956150-4cbdb5bf-cea5-49b6-ba06-e02e3a81fae8.jpeg)
+![WhatsApp Image 2023-04-10 at 10 48 11 PM (1)](https://user-images.githubusercontent.com/126875304/230956181-2069beba-9903-4250-a261-5f3855f11a72.jpeg)
