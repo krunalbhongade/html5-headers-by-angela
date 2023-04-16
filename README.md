@@ -28,11 +28,18 @@
 ![WhatsApp Image 2023-04-10 at 10 48 10 PM](https://user-images.githubusercontent.com/126875304/230956150-4cbdb5bf-cea5-49b6-ba06-e02e3a81fae8.jpeg)
 ![WhatsApp Image 2023-04-10 at 10 48 11 PM (1)](https://user-images.githubusercontent.com/126875304/230956181-2069beba-9903-4250-a261-5f3855f11a72.jpeg)
 # HTML updated version by angela
+# HTML Heading Element
 ![WhatsApp Image 2023-04-16 at 10 40 08 PM](https://user-images.githubusercontent.com/126875304/232329142-74215c86-6337-46cd-86f5-576c1d842045.jpeg)
+# HTML Paragraph Element
 ![WhatsApp Image 2023-04-16 at 10 40 08 PM (3)](https://user-images.githubusercontent.com/126875304/232329165-22008a71-b987-4a70-8119-6afbff810a3e.jpeg)
+# Self closing tags
 ![WhatsApp Image 2023-04-16 at 10 40 08 PM (2)](https://user-images.githubusercontent.com/126875304/232329186-bea0cb75-2ec5-451e-819e-98e4bb20d485.jpeg)
 ![WhatsApp Image 2023-04-16 at 10 40 08 PM (1)](https://user-images.githubusercontent.com/126875304/232329199-42dd34eb-93b3-47dd-ba35-fac260867858.jpeg)
+# Project Movie Ranking & List element
 ![WhatsApp Image 2023-04-16 at 10 40 07 PM](https://user-images.githubusercontent.com/126875304/232329216-2b3c2fb9-c014-4f07-9e20-4d9857c72e83.jpeg)
+# Nesting & Identation
 ![WhatsApp Image 2023-04-16 at 10 40 07 PM (3)](https://user-images.githubusercontent.com/126875304/232329247-f5b9a4f3-d923-4969-a325-26baea59b567.jpeg)
+# Anchor Elements
 ![WhatsApp Image 2023-04-16 at 10 40 07 PM (2)](https://user-images.githubusercontent.com/126875304/232329265-4f633971-88b4-4526-bb26-c35f3378c46c.jpeg)
+# Image Element
 ![WhatsApp Image 2023-04-16 at 10 40 07 PM (1)](https://user-images.githubusercontent.com/126875304/232329324-75197083-e3fe-478d-b162-86959c17a23e.jpeg)
