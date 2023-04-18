@@ -50,7 +50,10 @@ Project Image
 
 # Birthday Invite
 ![Screenshot (115)](https://user-images.githubusercontent.com/126875304/232329953-8fd6279e-fbb0-4c50-a68a-3795794f9f88.png)
-#
-#
-#
-#
+# Task Given by Angela
+#![resume html](https://user-images.githubusercontent.com/126875304/232771659-1582e088-e2d3-4649-a718-eadccf78d859.png)
+#![resume html2](https://user-images.githubusercontent.com/126875304/232771788-f6bbce7e-efe5-4f55-b16d-bb5eb9e0208a.png)
+#![resume html3](https://user-images.githubusercontent.com/126875304/232771840-edc9c186-f520-44d9-ab7e-05ec5acffae4.png)
+# ![resume html4](https://user-images.githubusercontent.com/126875304/232771926-2d64a08e-008b-4933-bf95-45a21e174aea.png)
+
+
